@@ -74,7 +74,16 @@ It will be done by generating periodic reports that reflect the current status o
 
 The testing process will be executed based on the above requirements for the ***module under test name***. The following test conditions were found:
 
- - Enter test conditions here
+  - Verify that an user can create an account using mandatory fields.
+
+  - Verify that an user can create an account using all fields.
+
+  - Verify that if mandatory fields are empty an error message appear.
+  - Verify that if ‘First Name’ and 'Last Name' input fields are completed with numbers an error message appears.
+  - Verify that an user can find a product by typing it.
+  - Verify that an user can add a product in wish list.
+  - Verify that an user can delete a product from the wish list.
+        
 
 **1.4 Test Design**
 
