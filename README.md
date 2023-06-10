@@ -17,8 +17,7 @@ ____
 
 **1.1 Test Planning**
 
-We want to test some funtionalities like, Register ,LogIn, Search Bar and Wish List of the  Open Cart app: https://demo.opencart.com/
-
+We want to test some funtionalities like, Register ,LogIn, Search Bar and Wish List of the  Open Cart app.
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
 
 **1.1.1 Roles assigned to the project and persons allocated**
@@ -32,7 +31,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 
      - smoke test passed
      - testing environment is up and running
-     
+     - initial project risks were detected and mitigated
      
 **1.1.3 Exit criteria defined**
 
@@ -89,7 +88,7 @@ The testing process will be executed based on the above requirements for the ***
 
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are: 
 
-Test cases: -> enter here test cases or at least the titles
+
 The test cases with steps can be viewed here: [test_cases.pdf]()
 
 **1.5 Test Implementation**
