@@ -1,13 +1,13 @@
 # Proiect-Practic-Testare-Manuala
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and aplly them in practice, using a live application
 
-Application under test: [Application Name](https://www.google.com)
+Application under test:https://demo.opencart.com/
 
-API Documentation: link to API documentation if exists or N/A
+API Documentation: N/A.
 
 **The final project will be split into 2 section: [Testing section]() and  [SQL section]()**
 
-Tools used:
+Tools used: Mozilla, Jira.
 
 **Functional specifications**
 
@@ -17,21 +17,50 @@ ____
 
 **1.1 Test Planning**
 
-The Test Plan is designed to describe all details of testing for the X module from the ***name of the application chosen to be tested***.
+We want to test some funtionalities like, Register ,LogIn, Search Bar and Wish List of the  Open Cart app: https://demo.opencart.com/
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
 
 **1.1.1 Roles assigned to the project and persons allocated**
+
+
+     Alex will test: Register and LogIn
+     Geani will test: Search Bar and Wish List
+     
+     
 **1.1.2 Entry criteria defined**
+
+     - smoke test passed
+     - testing environment is up and running
+     
+     
 **1.1.3 Exit criteria defined**
 
+     - 90% of tests are passed
+     - no Critical issues have Open status
+
+
 **1.1.4 Test scope**
- - **Tests in scope:**
+  -   Register
+  -   Log in
+  -   Search Bar
+  -   Wish List 
+
+
  - **Tests not in scope:**
+    - Non-functional testing like stress, performance, compatibility,etc.
+    - Automation testing is beyond scope.
 
 **1.1.5 Risks detected:**
+
  - Projects risks:
+      - Risks related to the ability of the OpenCart app to handle increased user load, high traffic volumes.
+      - The risk of not being able to meet project deadlines 
+      - Risks associated with managing expectations and communication with stakeholders, including conflicts or  changing requirements.
+      - The risk of low user adoption.
  - Product risks:
+      - Risks related to the user interface and user experience of the OpenCart app, such as confusing navigation, poor layout or difficulty in completing tasks.
+      - The risk of the OpenCart app experiencing slow response times, frequent crashes, or inefficient resource utilization, which can lead to a poor user experience and loss of customers.
 
 **1.1.6 Evaluating entry criteria**
 The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
