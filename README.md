@@ -87,7 +87,8 @@ The testing process will be executed based on the above requirements for the ***
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are: 
 
 
-The test cases with steps can be viewed here: [test_cases.pdf]()
+The test cases with steps can be viewed here: 
+[Zephyr Test Steps (Jira).pdf](https://github.com/geani85/Proiect-Practic-Testare-Manuala-2/files/12024252/Zephyr.Test.Steps.Jira.pdf)
 
 **1.5 Test Implementation**
 
@@ -113,3 +114,4 @@ enter here bug titles
 
 
 
+[
