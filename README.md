@@ -89,6 +89,7 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 
 The test cases with steps can be viewed here: 
 [Zephyr Test Steps (Jira).pdf](https://github.com/geani85/Proiect-Practic-Testare-Manuala-2/files/12024252/Zephyr.Test.Steps.Jira.pdf)
+
 https://s3-eu-west-1.amazonaws.com/midori-jpdfc-prod-prod/export/fc7f9fa0-4edd-3aac-8cdb-14a4c5fa110a/2023-07-12-05-59-07-580-q5u7cu3o4gtoerdh037v5fqlai/Zephyr%20Test%20Steps%20(Jira).pdf
 
 **1.5 Test Implementation**
