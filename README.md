@@ -102,8 +102,7 @@ The following elements are needed to be ready before the test execution phase be
 **1.6 Test Execution**
 
  - Test cases are executed on the created test Cycle summary(or Test Run): https://itfclasses.atlassian.net/projects/GC?selectedItem=com.thed.zephyr.je__cycle-summary
- - Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf]()
-enter here bug titles
+ - Bugs have been created based on the failed tests. The complete bug reports can be found here: https://itfclasses.atlassian.net/projects/GC?selectedItem=com.thed.zephyr.je__traceability-project-level
 
 **1.7 Test Completion**
  - Exit criteria was evaluated and passed
