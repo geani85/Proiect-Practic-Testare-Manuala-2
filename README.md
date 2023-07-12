@@ -7,7 +7,7 @@ API Documentation: N/A.
 
 **The final project will be split into 2 section: [Testing section]() and  [SQL section]()**
 
-Tools used: Mozilla, Jira.
+Tools used: Mozilla, Jira, Zephyr Squad
 
 **Functional specifications**
 
@@ -74,12 +74,10 @@ It will be done by generating periodic reports that reflect the current status o
 The testing process will be executed based on the above requirements for the ***module under test name***. The following test conditions were found:
 
   - Verify that an user can create an account using mandatory fields.
-
   - Verify that an user can create an account using all fields.
-
   - Verify that if mandatory fields are empty an error message appear.
   - Verify that if ‘First Name’ and 'Last Name' input fields are completed with numbers an error message appears.
-  - Verify that an user can find a product by typing it.
+  - Verify that an user can find a product.
   - Verify that an user can add a product in wish list.
   - Verify that an user can delete a product from the wish list.
         
@@ -95,7 +93,8 @@ The test cases with steps can be viewed here: [test_cases.pdf]()
 
 The following elements are needed to be ready before the test execution phase begins:
 
- - enter here what needs to be ready for the test execution to begin
+ - the enviroment is ready
+ - the requirements have been reviewed
  - 
 **1.6 Test Execution**
 
